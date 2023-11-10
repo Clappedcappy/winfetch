@@ -1,3 +1,15 @@
 # A simple neofetch clone for windows made in python
 
-This code uses external libraries use the the requirements.txt file to resolve these dependencies using pip install -r requirements.txt
+Installation
+
+1: Clone Repo
+
+Open Terminal and enter command
+```git clone https://github.com/Clappedcappy/winfetch```
+
+
+2: Install dependencies
+
+Open Terminal and enter command
+```pip install -r requirements.txt```
+
